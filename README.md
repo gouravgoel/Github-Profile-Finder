@@ -4,7 +4,7 @@
 ## Deployed Application
 [Click Here](https://github-profile-explorer.netlify.app/)
 
-![](images/home-page.JPG)
+![](images/main-page.JPG)
 
 ## Tech Stack
 
