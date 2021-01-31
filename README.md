@@ -1,5 +1,5 @@
 
-> Full stack e-commerce application that let's user shop their favourite products, review them, view their latest orders, and admins to manage products, users, payment and delivery.
+> A Simple React Application that fetches github profile data from github api
 
 ## Deployed Application
 [Click Here](https://github-profile-explorer.netlify.app/)
